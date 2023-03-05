@@ -17,7 +17,7 @@ if [ $num1 -gt $num2 ]
 then
         echo "house1 needs more Financial Assistance bcos it is larger than house2"
 else
-        echo "house2 needs more Finanaial Assitance bco it is larger than house1"
-fi
+        echo "house2 needs more Finanaial Assistance bcos it is larger than house1"
 
 # Condintional Statements that will enable which family requires more Financial Aid than the other
+fi
