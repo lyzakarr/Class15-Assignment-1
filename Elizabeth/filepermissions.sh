@@ -22,6 +22,8 @@ else
 
         echo "$filename does not exist"
 
-# Conditional Statements(if and else)that determins the exectuion of another action if the file exists or not.
+# Conditional Statements(if and else)that determines the exectuion of another action if the file exists or not
+# The cp is a command that create a backup of the file if it exists and brings it to present date
+# Display of the file's read, write and execute permissions if it exists with the ls -la command
 
 
