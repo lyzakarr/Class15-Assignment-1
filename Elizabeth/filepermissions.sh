@@ -26,4 +26,8 @@ else
 # The cp is a command that create a backup of the file if it exists and brings it to present date
 # Display of the file's read, write and execute permissions if it exists with the ls -la command
 
+fi
+
+# closing conditional statemnents
+
 
