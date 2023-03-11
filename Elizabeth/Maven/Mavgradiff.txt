@@ -12,5 +12,8 @@ while the Gradle project on the other hand does not use the XML file and the pro
 4. The Maven tool is used for generating Java-based projects, while with the Gradle, 
 domain-specific language projects can be developed in an easy and straightforward manner.
 
-5.
+5. The Maven tool uses an XML(Extensible Markup Language) to create project structures, 
+while the Gradle tool creates a project structure using a Groovy-based DSL(Domain-Specific Language).
+
+6.
 
