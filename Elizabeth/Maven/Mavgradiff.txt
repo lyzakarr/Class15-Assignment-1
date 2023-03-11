@@ -15,5 +15,6 @@ domain-specific language projects can be developed in an easy and straightforwar
 5. The Maven tool uses an XML(Extensible Markup Language) to create project structures, 
 while the Gradle tool creates a project structure using a Groovy-based DSL(Domain-Specific Language).
 
-6.
+6. In Maven tool, Java compilation is compulsory, while in Gradle tool Java compilation is not compulsory
+
 
