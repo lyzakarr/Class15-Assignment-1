@@ -9,5 +9,8 @@ while the Gradle project on the other hand does not use the XML file and the pro
 
 3. It requires more time to create the Maven tool-based project than the Gradle tool-based project since the Maven tool does not utilize the build cache in creating its projects. While the Gradle tool only tracks the ongoing tasks and not the input and output tasks and therefore has better performance in terms of execution.
 
+4. The Maven tool is used for generating Java-based projects, while with the Gradle, 
+domain-specific language projects can be developed in an easy and straightforward manner.
 
+5.
 
