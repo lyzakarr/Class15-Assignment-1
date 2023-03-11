@@ -17,4 +17,7 @@ while the Gradle tool creates a project structure using a Groovy-based DSL(Domai
 
 6. In Maven tool, Java compilation is compulsory, while in Gradle tool Java compilation is not compulsory
 
+7. Maven tool is a well-known tool and this makes it easily available for developers to design new projects. But the Gradle tool is new and has limited users since it's not well-known.
+	
+
 
