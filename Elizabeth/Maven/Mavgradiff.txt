@@ -3,3 +3,7 @@
 
 1. The Maven tool-based projects aims at finishing the project within a given timeline, 
 while the Gradle tool-based  projects aims at incorporating new functionality into the project.
+
+2. Maven tool uses an Extensible markup language(XML) file in maintaining the list of components, project dependencies and other necessities 
+while the Gradle project on the other hand does not use the XML file and the project configuration is distinctly maintained for Gradle tool projects.
+
