@@ -1,1 +1,5 @@
-# DIFFENCES BETWEEN THE MAVEN AND GRADLE AUTOMATION BUILD TOOLS 
+
+# DIFFENCES BETWEEN THE MAVEN AND GRADLE AUTOMATION BUILD TOOLS
+
+1. The Maven tool-based projects aims at finishing the project within a given timeline, 
+while the Gradle tool-based  projects aims at incorporating new functionality into the project.
