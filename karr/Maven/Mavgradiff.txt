@@ -1,0 +1,23 @@
+
+# DIFFENCES BETWEEN THE MAVEN AND GRADLE AUTOMATION BUILD TOOLS
+
+1. The Maven tool-based projects aims at finishing the project within a given timeline, 
+while the Gradle tool-based  projects aims at incorporating new functionality into the project.
+
+2. Maven tool uses an Extensible markup language(XML) file in maintaining the list of components, project dependencies and other necessities 
+while the Gradle project on the other hand does not use the XML file and the project configuration is distinctly maintained for Gradle tool projects.
+
+3. It requires more time to create the Maven tool-based project than the Gradle tool-based project since the Maven tool does not utilize the build cache in creating its projects. While the Gradle tool only tracks the ongoing tasks and not the input and output tasks and therefore has better performance in terms of execution.
+
+4. The Maven tool is used for generating Java-based projects, while with the Gradle, 
+domain-specific language projects can be developed in an easy and straightforward manner.
+
+5. The Maven tool uses an XML(Extensible Markup Language) to create project structures, 
+while the Gradle tool creates a project structure using a Groovy-based DSL(Domain-Specific Language).
+
+6. In Maven tool, Java compilation is compulsory, while in Gradle tool Java compilation is not compulsory
+
+7. Maven tool is a well-known tool and this makes it easily available for developers to design new projects. But the Gradle tool is new and has limited users since it's not well-known.
+	
+
+
